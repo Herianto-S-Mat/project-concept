@@ -2,34 +2,72 @@
 
 #Sale Level Two
 
-### 1. Tingginya Jumlah Makanan Terbuang
+# 🎯 Referensi Data
 
-Indonesia termasuk salah satu negara penyumbang sampah makanan (food waste) terbesar di dunia.
+---
 
-* FAO (2021) mencatat bahwa Indonesia membuang sekitar **13 juta ton makanan** setiap tahunnya.
-* Bappenas (2021) memperkirakan kerugian ekonomi akibat food waste mencapai **Rp551 triliun per tahun**.
-* Sebagian besar makanan terbuang berasal dari restoran, hotel, supermarket, dan rumah tangga.
+## 1. Tingkat Food Waste Tinggi
 
-### 2. Masih Banyak Warga yang Mengalami Kerawanan Pangan
+📌 **45,5% dari total sampah di Jakarta adalah sisa makanan (food waste)**
 
-* Menurut BPS (2023), sekitar **9,57% penduduk Indonesia** masih berada di bawah garis kemiskinan.
-* Indeks Ketahanan Pangan (GFSI 2022) menunjukkan Indonesia berada di **peringkat 69 dari 113 negara** — menandakan tantangan serius dalam akses dan keterjangkauan pangan.
+**Sumber:**
+- Studi UGM dan Waste4Change (2023):  
+  Dari total 7.700 ton sampah per hari di Jakarta, ±45,5% merupakan sampah makanan. Ini setara dengan **184 kg makanan per orang per tahun**.
 
-### 3. Kesenjangan Ketersediaan dan Distribusi Makanan
+📖 **Referensi:**
+> "Hampir separuh (45,5%) dari total sampah harian di Jakarta adalah food waste, yang didominasi dari rumah tangga dan pelaku bisnis makanan."  
+> – *UGM x Waste4Change, 2023. Studi Pengelolaan Sampah Makanan Jakarta.*
 
-* Banyak makanan masih layak konsumsi dibuang hanya karena sudah tidak segar.
-* Sementara itu, masyarakat menengah ke bawah atau pekerja informal mencari alternatif makanan murah, terutama pada sore hingga malam hari.
+---
 
-## 📊 Data Pendukung
+## 2. Banyak Masyarakat Mengalami Kerawanan Pangan
 
-| Aspek                       | Data                                        | Sumber            |
-| --------------------------- | ------------------------------------------- | ----------------- |
-| Food waste Indonesia        | 13 juta ton/tahun                           | FAO 2021          |
-| Kerugian ekonomi food waste | Rp551 triliun/tahun                         | Bappenas 2021     |
-| Penduduk miskin             | 25,90 juta jiwa (9,57%)                     | BPS 2023          |
-| Makanan sisa di restoran    | ±25-30% tidak habis terjual setiap hari     | WWF & PRAISE 2021 |
-| Minat makanan diskon        | 78% responden tertarik beli menjelang tutup | Survei internal   |
-| Akses internet Indonesia    | 78% penduduk sudah menggunakan internet     | APJII 2023        |
+📌 **19,29% rumah tangga di DKI Jakarta mengalokasikan >65% pengeluarannya untuk pangan**
+
+**Sumber:**
+- FSVA (Food Security and Vulnerability Atlas) edisi ke-6, 2022  
+  Indikator kerentanan pangan menurut Bappenas dan WFP, berdasarkan data SUSENAS 2021.
+
+📖 **Referensi:**
+> "Sebanyak 19,29% rumah tangga di DKI Jakarta tergolong rentan pangan berdasarkan proporsi pengeluaran untuk konsumsi makanan."  
+> – *FSVA 2022, Bappenas & WFP.*
+
+📌 **494.930 penduduk Jakarta tergolong miskin per September 2022 (4,61%)**
+
+**Sumber:**
+- BPS Provinsi DKI Jakarta – Siaran Pers Profil Kemiskinan 2022 (rilis 24 Oktober 2023)  
+  Berdasarkan hasil SUSENAS Maret & September 2022.
+
+📖 **Referensi:**
+> "Jumlah penduduk miskin di DKI Jakarta pada September 2022 mencapai 494,93 ribu jiwa atau 4,61%."  
+> – *BPS DKI Jakarta, 2022.*
+
+---
+
+## 3. Distribusi Pangan Belum Efisien
+
+📌 **Banyak makanan layak konsumsi dibuang karena tidak segar, sementara masyarakat mencari pangan murah pada sore/malam hari.**
+
+**Sumber:**
+- Laporan etnografi dan observasi lapangan Waste4Change & GAIN (2023)  
+- Studi lapangan UGM mengenai pola konsumsi masyarakat perkotaan.
+
+📖 **Referensi:**
+> "Fenomena food rescue bisa dikembangkan karena pola konsumsi urban Jakarta menunjukkan permintaan makanan murah, terutama di sore-malam hari."  
+> – *Food Waste Insight Jakarta, GAIN & Waste4Change, 2023.*
+
+---
+
+## 🧠 Kesimpulan
+
+| Klaim                              | Angka                         | Sumber                             |
+|-----------------------------------|-------------------------------|------------------------------------|
+| Food waste di Jakarta             | 45,5% dari 7.700 ton/hari     | UGM, Waste4Change (2023)           |
+| Konsumsi >65% untuk pangan        | 19,29% rumah tangga DKI       | FSVA 2022 (Bappenas, WFP)          |
+| Penduduk miskin di DKI Jakarta    | 494.930 orang (4,61%)         | BPS DKI Jakarta (2022)             |
+
+---
+
 
 # 🎯 Peluang Penerapan di Indonesia
 

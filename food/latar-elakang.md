@@ -1,5 +1,7 @@
 # 📌 Latar Belakang
 
+#Sale Level Two
+
 ### 1. Tingginya Jumlah Makanan Terbuang
 
 Indonesia termasuk salah satu negara penyumbang sampah makanan (food waste) terbesar di dunia.
@@ -33,14 +35,14 @@ Indonesia termasuk salah satu negara penyumbang sampah makanan (food waste) terb
 
 ### ✅ Potensi pasar:
 
-* Banyak restoran, kafe, hotel, dan minimarket yang menghasilkan makanan sisa layak makan.
+* Banyak restoran, kafe, hotel, dan umkm yang menghasilkan makanan sisa layak makan.
 * Banyak masyarakat kelas menengah ke bawah mencari makanan murah tapi aman konsumsi.
-* Konsep “last-minute flash sale” cocok diterapkan di daerah padat penduduk dan pusat kuliner.
+* Konsep “last-minute flash sale” cocok diterapkan di daerah padat penduduk dan pusat kuliner, secara spesifik kita fokus pada pengamatan kota jakarta.
 
 ### ✅ Digital readiness:
 
 * Penetrasi smartphone dan internet tinggi di kalangan urban dan semi urban.
-* Platform seperti "Too Good To Go" belum banyak digunakan di Indonesia, hanya web dan tidak terintegrasi secara luas.
+* Platform seperti "Too Good To Go" belum banyak digunakan di Indonesia. surplus clearence.
 
 ### ✅ Model Bisnis Berkelanjutan:
 

@@ -79,7 +79,7 @@ Dengan dukungan AI, aplikasi sekretariat tidak hanya mempermudah pencatatan dan 
 
 #### 1. **Pencarian Makanan Diskon**
 
-* Daftar makanan sisa dari mitra (restoran, toko, kafe).
+* Daftar makanan sisa dari mitra (restoran, toko, kafe). 
 * Filter berdasarkan lokasi, jenis makanan, waktu diskon, dan harga.
 * Tampilan foto, deskripsi singkat, dan harga potongan.
 
@@ -99,13 +99,17 @@ Dengan dukungan AI, aplikasi sekretariat tidak hanya mempermudah pencatatan dan 
 * Dukungan QRIS, e-wallet (OVO, GoPay, Dana), dan virtual account.
 * Konfirmasi otomatis setelah pembayaran berhasil.
 
+#### 4. **Pembayaran tunai**
+
+* Konfirmasi otomatis setelah pembayaran berhasil.
+
 #### 5. **Akun Pengguna**
 
 * Registrasi/login pengguna.
 * Riwayat pembelian dan daftar favorit.
 * Notifikasi pesanan dan promo.
 
-### 💻 Untuk Web (Mitra & Admin)
+### 💻 Untuk Mobile (Mitra)
 
 #### 1. **Profil Mitra**
 
@@ -118,12 +122,22 @@ Dengan dukungan AI, aplikasi sekretariat tidak hanya mempermudah pencatatan dan 
 * Tambah/edit/hapus makanan sisa harian.
 * Atur jam diskon dan jumlah stok.
 * Lihat laporan transaksi dan performa harian.
+  
 
-#### 3. **Dashboard Admin**
+### 💻 Untuk Web (Admin)
+
+#### 1. **Landing page**
+
+* marketing and branding.
+* pendaftaran mitra.
+
+#### 2. **Dashboard Admin**
 
 * Manajemen pengguna dan mitra.
 * Monitoring aktivitas platform secara keseluruhan.
 * Moderasi konten dan feedback.
+
+
 
 ## 💡 Fitur Tambahan (Post-MVP)
 

@@ -58,7 +58,6 @@ Dokumen ini fokus menjelaskan fitur-fitur utama dan tambahan yang direkomendasik
 #### 1. **Landing page**
 
 * marketing and branding.
-* pendaftaran mitra.
 
 #### 2. **Dashboard Admin**
 

@@ -76,10 +76,15 @@ Dokumen ini fokus menjelaskan fitur-fitur utama dan tambahan yang direkomendasik
 * **Donasi Makanan**: Fitur donasi makanan sisa untuk lembaga sosial.
 * **Edukasi & Kampanye Food Waste**: Artikel, data, dan tips.
 
-### 💻 Web (Mitra/Admin)
+### 💻 Mobile (Mitra)
+
+* **Review & Rating*: Tren penjualan mingguan/bulanan.
+* suspens
+* **Notifikasi dan Broadcast Promo**: Pengumuman ke pengguna terdekat.
+
+### 💻 Web (Admin)
 
 * **Dashboard Statistik Lanjutan**: Tren penjualan mingguan/bulanan.
-* **Integrasi Lembaga Sosial**: Menyumbangkan makanan dengan laporan distribusi.
 * **Notifikasi dan Broadcast Promo**: Pengumuman ke pengguna terdekat.
 
 ---
